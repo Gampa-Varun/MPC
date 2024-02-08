@@ -1,0 +1,2 @@
+mav_comm/mav_comm
+/home/vgampa/mpc_quad/devel/.private/mav_comm/cmake.lock /home/vgampa/mpc_quad/devel/./cmake.lock

@@ -1,0 +1,6 @@
+devel_space: /home/vgampa/mpc_quad/devel
+install: false
+install_space: /home/vgampa/mpc_quad/install
+profile: default
+source_space: /home/vgampa/mpc_quad/src
+workspace: /home/vgampa/mpc_quad

@@ -1,0 +1,145 @@
+[  0%] Built target nodelet_generate_messages_nodejs
+[  0%] Built target bond_generate_messages_nodejs
+[  0%] Built target bond_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[  0%] Built target nodelet_generate_messages_py
+[  0%] Built target roscpp_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_cpp
+[  0%] Built target roscpp_generate_messages_eus
+[  0%] Built target std_srvs_generate_messages_nodejs
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[  0%] Built target trajectory_msgs_generate_messages_py
+[  0%] Built target bond_generate_messages_cpp
+[  0%] Built target bond_generate_messages_eus
+[  0%] Built target gazebo_msgs_generate_messages_lisp
+[  0%] Built target tf2_msgs_generate_messages_py
+[  0%] Built target dynamic_reconfigure_generate_messages_nodejs
+[  0%] Built target std_srvs_generate_messages_eus
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[  0%] Built target tf_generate_messages_py
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target gazebo_msgs_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target mav_msgs_generate_messages_cpp
+[  0%] Built target mav_msgs_generate_messages_eus
+[  0%] Built target std_srvs_generate_messages_cpp
+[  0%] Built target roscpp_generate_messages_py
+[  0%] Built target dynamic_reconfigure_generate_messages_eus
+[  0%] Built target trajectory_msgs_generate_messages_eus
+[  0%] Built target gazebo_plugins_gencfg
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target nav_msgs_generate_messages_cpp
+[  0%] Built target trajectory_msgs_generate_messages_cpp
+[  0%] Built target gazebo_msgs_generate_messages_cpp
+[  0%] Built target roscpp_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target nodelet_generate_messages_lisp
+[  0%] Built target std_srvs_generate_messages_lisp
+[  0%] Built target actionlib_generate_messages_lisp
+[  0%] Built target gazebo_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target nav_msgs_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target rotors_comm_generate_messages_cpp
+[  0%] Built target rotors_comm_generate_messages_lisp
+[  0%] Built target gazebo_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target nodelet_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target trajectory_msgs_generate_messages_nodejs
+[  0%] Built target tf2_msgs_generate_messages_eus
+[  0%] Built target trajectory_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target bond_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target visualization_msgs_generate_messages_cpp
+[  0%] Built target tf_generate_messages_eus
+[  0%] Built target nav_msgs_generate_messages_py
+[  0%] Built target tf_generate_messages_lisp
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[  0%] Built target actionlib_msgs_generate_messages_py
+[  0%] Built target _catkin_empty_exported_target
+[  0%] Built target topic_tools_generate_messages_py
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[  0%] Built target tf_generate_messages_cpp
+[  0%] Built target tf_generate_messages_nodejs
+[  0%] Built target actionlib_generate_messages_cpp
+[  0%] Built target nav_msgs_generate_messages_eus
+[  0%] Built target std_srvs_generate_messages_py
+[  0%] Built target mav_msgs_generate_messages_nodejs
+[  0%] Built target actionlib_generate_messages_py
+[  0%] Built target actionlib_generate_messages_nodejs
+[  0%] Built target nav_msgs_generate_messages_lisp
+[  0%] Built target tf2_msgs_generate_messages_cpp
+[  0%] Built target dynamic_reconfigure_generate_messages_cpp
+[  0%] Built target tf2_msgs_generate_messages_lisp
+[  0%] Built target dynamic_reconfigure_generate_messages_lisp
+[  0%] Built target octomap_msgs_generate_messages_py
+[  0%] Built target dynamic_reconfigure_gencfg
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[  0%] Built target visualization_msgs_generate_messages_lisp
+[  0%] Built target visualization_msgs_generate_messages_nodejs
+[  0%] Built target visualization_msgs_generate_messages_py
+[  0%] Built target mav_msgs_generate_messages_py
+[  0%] Built target mav_msgs_generate_messages_lisp
+[  0%] Built target topic_tools_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target octomap_msgs_generate_messages_cpp
+[  0%] Built target visualization_msgs_generate_messages_eus
+[  0%] Built target octomap_msgs_generate_messages_eus
+[  0%] Built target octomap_msgs_generate_messages_lisp
+[  0%] Built target topic_tools_generate_messages_eus
+[  0%] Built target octomap_msgs_generate_messages_nodejs
+[  0%] Built target actionlib_generate_messages_eus
+[  0%] Built target topic_tools_generate_messages_lisp
+[  0%] Built target nodelet_generate_messages_cpp
+[  0%] Built target topic_tools_generate_messages_nodejs
+[  0%] Built target rotors_comm_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target tf2_msgs_generate_messages_nodejs
+[  0%] Built target rotors_comm_generate_messages_eus
+[  0%] Built target rotors_comm_generate_messages_py
+[  0%] Built target dynamic_reconfigure_generate_messages_py
+[ 65%] Built target mav_msgs
+[ 66%] Built target LiftDragPlugin
+[ 68%] Built target rotors_gazebo_multirotor_base_plugin
+[ 70%] Built target rotors_gazebo_wind_plugin
+[ 73%] Built target rotors_gazebo_pressure_plugin
+[ 73%] [32mBuilding CXX object CMakeFiles/rotors_gazebo_motor_model.dir/src/gazebo_motor_model.cpp.o[0m
+[ 76%] Built target rotors_gazebo_fw_dynamics_plugin
+[ 77%] [32mBuilding CXX object CMakeFiles/rotors_gazebo_bag_plugin.dir/src/gazebo_bag_plugin.cpp.o[0m
+[ 79%] [32mBuilding CXX object CMakeFiles/rotors_gazebo_ros_interface_plugin.dir/src/gazebo_ros_interface_plugin.cpp.o[0m
+[ 79%] [32mBuilding CXX object CMakeFiles/rotors_gazebo_noisydepth_plugin.dir/src/gazebo_noisydepth_plugin.cpp.o[0m
+[ 81%] Built target gazebo_geotagged_images_plugin
+[ 83%] Built target rotors_gazebo_controller_interface
+[ 85%] Built target rotors_gazebo_odometry_plugin
+[35m[1mScanning dependencies of target rotors_gazebo_imu_plugin[0m
+[35m[1mScanning dependencies of target rotors_gazebo_lidar_plugin[0m
+[35m[1mScanning dependencies of target rotors_gazebo_gps_plugin[0m
+[35m[1mScanning dependencies of target rotors_gazebo_magnetometer_plugin[0m
+[ 88%] [32mBuilding CXX object CMakeFiles/rotors_gazebo_magnetometer_plugin.dir/src/gazebo_magnetometer_plugin.cpp.o[0m
+[ 88%] [32mBuilding CXX object CMakeFiles/rotors_gazebo_imu_plugin.dir/src/gazebo_imu_plugin.cpp.o[0m
+[ 89%] [32mBuilding CXX object CMakeFiles/rotors_gazebo_gps_plugin.dir/src/gazebo_gps_plugin.cpp.o[0m
+[ 90%] [32mBuilding CXX object CMakeFiles/rotors_gazebo_lidar_plugin.dir/src/external/gazebo_lidar_plugin.cpp.o[0m
+[ 91%] [32m[1mLinking CXX shared library /home/vgampa/mpc_quad/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_gps_plugin.so[0m
+[ 92%] [32m[1mLinking CXX shared library /home/vgampa/mpc_quad/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_lidar_plugin.so[0m
+[ 93%] [32m[1mLinking CXX shared library /home/vgampa/mpc_quad/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_imu_plugin.so[0m
+[ 94%] [32m[1mLinking CXX shared library /home/vgampa/mpc_quad/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_magnetometer_plugin.so[0m
+[ 95%] [32m[1mLinking CXX shared library /home/vgampa/mpc_quad/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_motor_model.so[0m
+[ 95%] Built target rotors_gazebo_lidar_plugin
+[ 95%] Built target rotors_gazebo_gps_plugin
+[ 95%] Built target rotors_gazebo_imu_plugin
+[ 95%] Built target rotors_gazebo_magnetometer_plugin
+[ 95%] Built target rotors_gazebo_motor_model
+[ 96%] [32m[1mLinking CXX shared library /home/vgampa/mpc_quad/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_bag_plugin.so[0m
+[ 96%] Built target rotors_gazebo_bag_plugin
+[ 97%] [32m[1mLinking CXX shared library /home/vgampa/mpc_quad/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_ros_interface_plugin.so[0m
+[ 97%] Built target rotors_gazebo_ros_interface_plugin
+[ 98%] [32m[1mLinking CXX shared library /home/vgampa/mpc_quad/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_noisydepth_plugin.so[0m
+[100%] Built target rotors_gazebo_noisydepth_plugin

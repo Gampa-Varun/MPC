@@ -1,0 +1,19 @@
+[01m[Kc++:[m[K [01;31m[Kfatal error: [m[KKilled signal terminated program cc1plus
+compilation terminated.
+make[2]: *** [CMakeFiles/rotors_gazebo_ros_interface_plugin.dir/build.make:63: CMakeFiles/rotors_gazebo_ros_interface_plugin.dir/src/gazebo_ros_interface_plugin.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:523: CMakeFiles/rotors_gazebo_ros_interface_plugin.dir/all] Error 2
+make[1]: *** Waiting for unfinished jobs....
+[01m[Kc++:[m[K [01;31m[Kfatal error: [m[KKilled signal terminated program cc1plus
+compilation terminated.
+make[2]: *** [CMakeFiles/rotors_gazebo_noisydepth_plugin.dir/build.make:63: CMakeFiles/rotors_gazebo_noisydepth_plugin.dir/src/gazebo_noisydepth_plugin.cpp.o] Error 1
+make[2]: *** Waiting for unfinished jobs....
+[01m[Kc++:[m[K [01;31m[Kfatal error: [m[KKilled signal terminated program cc1plus
+compilation terminated.
+make[2]: *** [CMakeFiles/rotors_gazebo_bag_plugin.dir/build.make:63: CMakeFiles/rotors_gazebo_bag_plugin.dir/src/gazebo_bag_plugin.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:2467: CMakeFiles/rotors_gazebo_bag_plugin.dir/all] Error 2
+make[1]: *** [CMakeFiles/Makefile2:1954: CMakeFiles/rotors_gazebo_noisydepth_plugin.dir/all] Error 2
+[01m[Kc++:[m[K [01;31m[Kfatal error: [m[KKilled signal terminated program cc1plus
+compilation terminated.
+make[2]: *** [CMakeFiles/rotors_gazebo_motor_model.dir/build.make:63: CMakeFiles/rotors_gazebo_motor_model.dir/src/gazebo_motor_model.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:2251: CMakeFiles/rotors_gazebo_motor_model.dir/all] Error 2
+make: *** [Makefile:141: all] Error 2

@@ -1,0 +1,7 @@
+CrazyS/rotors_joy_interface
+/home/vgampa/mpc_quad/devel/.private/rotors_joy_interface/cmake.lock /home/vgampa/mpc_quad/devel/./cmake.lock
+/home/vgampa/mpc_quad/devel/.private/rotors_joy_interface/lib/pkgconfig/rotors_joy_interface.pc /home/vgampa/mpc_quad/devel/lib/pkgconfig/rotors_joy_interface.pc
+/home/vgampa/mpc_quad/devel/.private/rotors_joy_interface/lib/rotors_joy_interface/rotors_joy_interface_crazyflie /home/vgampa/mpc_quad/devel/lib/rotors_joy_interface/rotors_joy_interface_crazyflie
+/home/vgampa/mpc_quad/devel/.private/rotors_joy_interface/lib/rotors_joy_interface/rotors_joy_interface /home/vgampa/mpc_quad/devel/lib/rotors_joy_interface/rotors_joy_interface
+/home/vgampa/mpc_quad/devel/.private/rotors_joy_interface/share/rotors_joy_interface/cmake/rotors_joy_interfaceConfig.cmake /home/vgampa/mpc_quad/devel/share/rotors_joy_interface/cmake/rotors_joy_interfaceConfig.cmake
+/home/vgampa/mpc_quad/devel/.private/rotors_joy_interface/share/rotors_joy_interface/cmake/rotors_joy_interfaceConfig-version.cmake /home/vgampa/mpc_quad/devel/share/rotors_joy_interface/cmake/rotors_joy_interfaceConfig-version.cmake

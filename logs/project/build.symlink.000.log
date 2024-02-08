@@ -1,0 +1,10 @@
+Symlinking /home/vgampa/mpc_quad/devel/lib/pkgconfig/project.pc
+Symlinking /home/vgampa/mpc_quad/devel/lib/project/cmake.lock
+Symlinking /home/vgampa/mpc_quad/devel/lib/project/main.py
+Symlinking /home/vgampa/mpc_quad/devel/lib/project/quadrotor.py
+Symlinking /home/vgampa/mpc_quad/devel/lib/project/visualize.py
+Symlinking /home/vgampa/mpc_quad/devel/lib/project/quad_math_utils_casadi.py
+Symlinking /home/vgampa/mpc_quad/devel/lib/project/Quad_dynamics.py
+Symlinking /home/vgampa/mpc_quad/devel/lib/project/Quad_mpc_control.py
+Symlinking /home/vgampa/mpc_quad/devel/share/project/cmake/projectConfig-version.cmake
+Symlinking /home/vgampa/mpc_quad/devel/share/project/cmake/projectConfig.cmake

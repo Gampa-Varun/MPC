@@ -1,0 +1,2 @@
+CrazyS/rotors_simulator
+/home/vgampa/mpc_quad/devel/.private/rotors_simulator/cmake.lock /home/vgampa/mpc_quad/devel/./cmake.lock

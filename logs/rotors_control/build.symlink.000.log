@@ -1,0 +1,16 @@
+Symlinking /home/vgampa/mpc_quad/devel/lib/libsensfusion6.so
+Symlinking /home/vgampa/mpc_quad/devel/lib/libinternal_model_controller.so
+Symlinking /home/vgampa/mpc_quad/devel/lib/libmellinger_controller.so
+Symlinking /home/vgampa/mpc_quad/devel/lib/libroll_pitch_yawrate_thrust_controller_crazyflie.so
+Symlinking /home/vgampa/mpc_quad/devel/lib/libposition_controller.so
+Symlinking /home/vgampa/mpc_quad/devel/lib/libcrazyflie_complementary_filter.so
+Symlinking /home/vgampa/mpc_quad/devel/lib/liblee_position_controller.so
+Symlinking /home/vgampa/mpc_quad/devel/lib/libroll_pitch_yawrate_thrust_controller.so
+Symlinking /home/vgampa/mpc_quad/devel/lib/libcrazyflie_onboard_controller.so
+Symlinking /home/vgampa/mpc_quad/devel/lib/pkgconfig/rotors_control.pc
+Symlinking /home/vgampa/mpc_quad/devel/lib/rotors_control/roll_pitch_yawrate_thrust_controller_node
+Symlinking /home/vgampa/mpc_quad/devel/lib/rotors_control/lee_position_controller_node
+Symlinking /home/vgampa/mpc_quad/devel/lib/rotors_control/roll_pitch_yawrate_thrust_crazyflie_node
+Symlinking /home/vgampa/mpc_quad/devel/lib/rotors_control/position_controller_node
+Symlinking /home/vgampa/mpc_quad/devel/share/rotors_control/cmake/rotors_controlConfig.cmake
+Symlinking /home/vgampa/mpc_quad/devel/share/rotors_control/cmake/rotors_controlConfig-version.cmake

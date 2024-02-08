@@ -1,0 +1,5 @@
+Symlinking /home/vgampa/mpc_quad/devel/lib/pkgconfig/rotors_joy_interface.pc
+Symlinking /home/vgampa/mpc_quad/devel/lib/rotors_joy_interface/rotors_joy_interface_crazyflie
+Symlinking /home/vgampa/mpc_quad/devel/lib/rotors_joy_interface/rotors_joy_interface
+Symlinking /home/vgampa/mpc_quad/devel/share/rotors_joy_interface/cmake/rotors_joy_interfaceConfig.cmake
+Symlinking /home/vgampa/mpc_quad/devel/share/rotors_joy_interface/cmake/rotors_joy_interfaceConfig-version.cmake

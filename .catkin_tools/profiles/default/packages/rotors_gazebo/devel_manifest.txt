@@ -1,0 +1,12 @@
+CrazyS/rotors_gazebo
+/home/vgampa/mpc_quad/devel/.private/rotors_gazebo/cmake.lock /home/vgampa/mpc_quad/devel/./cmake.lock
+/home/vgampa/mpc_quad/devel/.private/rotors_gazebo/lib/libspline_trajectory_generator.so /home/vgampa/mpc_quad/devel/lib/libspline_trajectory_generator.so
+/home/vgampa/mpc_quad/devel/.private/rotors_gazebo/lib/pkgconfig/rotors_gazebo.pc /home/vgampa/mpc_quad/devel/lib/pkgconfig/rotors_gazebo.pc
+/home/vgampa/mpc_quad/devel/.private/rotors_gazebo/lib/rotors_gazebo/waypoint_publisher /home/vgampa/mpc_quad/devel/lib/rotors_gazebo/waypoint_publisher
+/home/vgampa/mpc_quad/devel/.private/rotors_gazebo/lib/rotors_gazebo/hovering_example_spline_swarm /home/vgampa/mpc_quad/devel/lib/rotors_gazebo/hovering_example_spline_swarm
+/home/vgampa/mpc_quad/devel/.private/rotors_gazebo/lib/rotors_gazebo/waypoint_publisher_file /home/vgampa/mpc_quad/devel/lib/rotors_gazebo/waypoint_publisher_file
+/home/vgampa/mpc_quad/devel/.private/rotors_gazebo/lib/rotors_gazebo/hovering_example_spline /home/vgampa/mpc_quad/devel/lib/rotors_gazebo/hovering_example_spline
+/home/vgampa/mpc_quad/devel/.private/rotors_gazebo/lib/rotors_gazebo/hovering_example /home/vgampa/mpc_quad/devel/lib/rotors_gazebo/hovering_example
+/home/vgampa/mpc_quad/devel/.private/rotors_gazebo/lib/rotors_gazebo/quaternion_to_rpy /home/vgampa/mpc_quad/devel/lib/rotors_gazebo/quaternion_to_rpy
+/home/vgampa/mpc_quad/devel/.private/rotors_gazebo/share/rotors_gazebo/cmake/rotors_gazeboConfig.cmake /home/vgampa/mpc_quad/devel/share/rotors_gazebo/cmake/rotors_gazeboConfig.cmake
+/home/vgampa/mpc_quad/devel/.private/rotors_gazebo/share/rotors_gazebo/cmake/rotors_gazeboConfig-version.cmake /home/vgampa/mpc_quad/devel/share/rotors_gazebo/cmake/rotors_gazeboConfig-version.cmake

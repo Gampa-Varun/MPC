@@ -1,0 +1,1 @@
+/home/vgampa/mpc_quad/devel/.private/rotors_description/share/rotors_description/cmake/rotors_descriptionConfig-version.cmake

@@ -1,0 +1,10 @@
+Symlinking /home/vgampa/mpc_quad/devel/lib/libspline_trajectory_generator.so
+Symlinking /home/vgampa/mpc_quad/devel/lib/pkgconfig/rotors_gazebo.pc
+Symlinking /home/vgampa/mpc_quad/devel/lib/rotors_gazebo/waypoint_publisher
+Symlinking /home/vgampa/mpc_quad/devel/lib/rotors_gazebo/hovering_example_spline_swarm
+Symlinking /home/vgampa/mpc_quad/devel/lib/rotors_gazebo/waypoint_publisher_file
+Symlinking /home/vgampa/mpc_quad/devel/lib/rotors_gazebo/hovering_example_spline
+Symlinking /home/vgampa/mpc_quad/devel/lib/rotors_gazebo/hovering_example
+Symlinking /home/vgampa/mpc_quad/devel/lib/rotors_gazebo/quaternion_to_rpy
+Symlinking /home/vgampa/mpc_quad/devel/share/rotors_gazebo/cmake/rotors_gazeboConfig.cmake
+Symlinking /home/vgampa/mpc_quad/devel/share/rotors_gazebo/cmake/rotors_gazeboConfig-version.cmake

@@ -1,0 +1,1 @@
+/home/vgampa/mpc_quad/devel/.private/project/lib/pkgconfig/project.pc
